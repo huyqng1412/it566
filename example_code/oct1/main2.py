@@ -1,4 +1,4 @@
-from ultimate_function import UltimateFunction as uf 
+from ultimate_function import UltimateFunction as uf
 
 uf.func()
 
